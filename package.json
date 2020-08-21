@@ -1,0 +1,33 @@
+
+ {
+  "name": "Test",
+  "description": "Test",
+  "version": "0.0.0",
+  "main": [
+    "me.js"
+    ],
+  "scripts": {
+    "start": [
+     "node 119.js",
+     "node 120.js",
+     "node 121.js",
+     "node 122.js",
+     "node 123.js",
+     "node 124.js",
+     "node 125.js",
+     "node 126.js",
+     "node 127.js",
+     "node 128.js",
+     "node 129.js",
+     "node 130.js",
+     "node 131.js",
+     "node 132.js",
+     "node 133.js"
+      ]
+  },
+ "dependencies": {
+    "discord.js": "11.5.0",
+    "enmap": "5.4.1"
+
+  }
+}
